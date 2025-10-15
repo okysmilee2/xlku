@@ -20,7 +20,7 @@ git clone https://github.com/okysmilee2/xlku
 ```
 4. Open the folder
 ```
-cd anomali-xl
+cd xlku
 ```
 5. Setup
 ```
