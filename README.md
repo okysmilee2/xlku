@@ -1,6 +1,4 @@
-# Anomali XL
 
-[Join Group Telegram](https://t.me/AnooooMaliEngsellllll)
 
 CLI client for a certain Indonesian mobile internet service provider.
 
@@ -34,6 +32,4 @@ python main.py
 ```
 ~~7. Input your API key when prompted~~
 
-## Contact
 
-Telegram: https://t.me/AnooooMaliEngsellllll
